@@ -1,0 +1,21 @@
+{
+  "contentType": "event",
+  "tools": [
+    {
+      "name": "event",
+      "fields": [
+        "title",
+        "songUrl",
+        "summary",
+        "description",
+        "year",
+        "month",
+        "day",
+        "location",
+        "adventure",
+        "involvement",
+        "npcInvolvement"
+      ]
+    }
+  ]
+}

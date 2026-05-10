@@ -1,0 +1,17 @@
+{
+  "contentType": "character",
+  "tools": [
+    {
+      "name": "character",
+      "fields": [
+        "name",
+        "race",
+        "class",
+        "level",
+        "flaws",
+        "player",
+        "status"
+      ]
+    }
+  ]
+}

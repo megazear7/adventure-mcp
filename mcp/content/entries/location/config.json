@@ -1,0 +1,12 @@
+{
+  "contentType": "location",
+  "tools": [
+    {
+      "name": "location",
+      "fields": [
+        "title",
+        "description"
+      ]
+    }
+  ]
+}

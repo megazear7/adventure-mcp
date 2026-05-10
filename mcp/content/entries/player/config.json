@@ -1,0 +1,11 @@
+{
+  "contentType": "player",
+  "tools": [
+    {
+      "name": "player",
+      "fields": [
+        "name"
+      ]
+    }
+  ]
+}

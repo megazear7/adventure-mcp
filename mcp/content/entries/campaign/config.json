@@ -1,0 +1,13 @@
+{
+  "contentType": "campaign",
+  "tools": [
+    {
+      "name": "campaign",
+      "fields": [
+        "title",
+        "mainCharacters",
+        "adventures"
+      ]
+    }
+  ]
+}

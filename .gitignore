@@ -7,3 +7,8 @@ dist/
 # Contentful example: ignore built content but keep config files
 examples/contentful/content/assets/
 examples/contentful/content/entries/*/*/
+
+mcp/content/entries/*
+mcp/content/entries/**/*
+!mcp/content/entries/**/
+!mcp/content/entries/**/config.json

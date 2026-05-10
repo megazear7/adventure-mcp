@@ -1,0 +1,14 @@
+{
+  "contentType": "npc",
+  "tools": [
+    {
+      "name": "npc",
+      "fields": [
+        "name",
+        "race",
+        "allegiances",
+        "description"
+      ]
+    }
+  ]
+}
