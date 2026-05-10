@@ -1,0 +1,9 @@
+.env
+node_modules/
+dist/
+*.tsbuildinfo
+.netlify/
+
+# Contentful example: ignore built content but keep config files
+examples/contentful/content/assets/
+examples/contentful/content/entries/*/*/
