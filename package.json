@@ -17,6 +17,10 @@
   },
   "homepage": "https://github.com/megazear7/adventure-mcp#readme",
   "dependencies": {
-    "static-mcpify": "^1.0.0"
+    "static-mcpify": "^1.0.2"
+  },
+  "devDependencies": {
+    "@netlify/functions": "^5.2.0",
+    "@types/node": "^25.6.2"
   }
 }

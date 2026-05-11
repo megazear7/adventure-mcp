@@ -1,4 +1,3 @@
 [functions]
   directory = "netlify/functions"
   node_bundler = "nft"
-  external_node_modules = ["static-mcpify"]

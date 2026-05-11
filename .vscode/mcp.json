@@ -2,7 +2,7 @@
     "servers": {
         "adventure": {
             "type": "http",
-            "url": "https://adventure-mcp.netlify.app/mcp",
+            "url": "https://adventure-mcp.alexlockhart.me/mcp",
         }
     }
 }

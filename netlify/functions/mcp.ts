@@ -6,7 +6,7 @@ const contentDir = path.join(process.cwd(), 'mcp/content');
 
 export default async (req: Request, _context: Context): Promise<Response> => {
   if (req.method === 'GET') {
-    return new Response(JSON.stringify({ status: 'ok', server: 'contentful-mcp' }), {
+    return new Response(JSON.stringify({ status: 'ok', server: 'adventure-mcp' }), {
       status: 200,
       headers: { 'Content-Type': 'application/json' },
     });
