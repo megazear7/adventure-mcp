@@ -1,0 +1,8 @@
+{
+    "servers": {
+        "adventure": {
+            "type": "http",
+            "url": "https://adventure-mcp.netlify.app/mcp",
+        }
+    }
+}

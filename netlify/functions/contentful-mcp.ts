@@ -2,7 +2,7 @@ import type { Context } from '@netlify/functions';
 import { handleMcpRequest } from 'static-mcpify/web-handler';
 import path from 'path';
 
-const contentDir = path.join(process.cwd(), 'examples/contentful/content');
+const contentDir = path.join(process.cwd(), 'mcp/content');
 
 export default async (req: Request, _context: Context): Promise<Response> => {
   if (req.method === 'GET') {
