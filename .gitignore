@@ -12,3 +12,5 @@ mcp/content/entries/*
 mcp/content/entries/**/*
 !mcp/content/entries/**/
 !mcp/content/entries/**/config.json
+
+.work
